@@ -9,7 +9,7 @@
   
   
 ### How To Run:
-  download the three .py file in the repo and run gui.py, so a gui application will run and you'll be asked to enter a valid function, minimim x value and maximum x value
+  download the three .py files in the repo and run gui.py, so a gui application will run and you'll be asked to enter a valid function, minimim x value and maximum x value
   then press "OK" and a matplotlib figure will appear with the function plotted.
   
 ### Limitations:
